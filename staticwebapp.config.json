@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "route": "/avd.mammoet.com",  
+      "redirect": "/windows365.microsoft.com/ent",  
+      "statusCode": 301  
+    },
+    {
+      "route": "/avd.mammoet.com*",
+      "redirect": "/windows365.microsoft.com/ent",
+      "statusCode": 301
+    }
+  ]
+}
